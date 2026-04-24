@@ -1,5 +1,7 @@
 #  Firewall Configuration
 
+## Later I found out that this could be easily dealt by editing the /etc/ file of ufw due to time constraints I made this approach
+
 ## Installing the UFW
 --- 
 - using the builtin package manager `dnf` for the installation of the 
