@@ -3,11 +3,22 @@
 ## The directort follows the structure 
 ```
 Project-Submission/
-├── Task-1/   # SSH Passwordless Authentication
-├── Task-2/   # Docker Installation & Deployment
-├── Task-3/   # Monitoring with Logs
-├── Task-4/   # User & Permission Management
-├── Task-5/   # Firewall Configuration
+├── Task-1/
+│ ├── README.md
+│ └── relevant files
+├── Task-2/
+│ ├── README.md
+│ └── Dockerfile
+├── Task-3/
+│ ├── README.md
+│ └── monitoring script
+├── Task-4/
+│ ├── README.md
+│ └── user and permission configuration
+├── Task-5/
+│ ├── README.md
+│ └── firewall configuration
+└── README.md
 ```
 
 ## The demonstration link of the project is attached here
